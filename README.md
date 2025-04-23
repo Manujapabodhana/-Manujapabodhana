@@ -1,49 +1,52 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 👋 Hi, I’m Manuja Pabodhana
 
-<div align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></div>
+🎓 **Undergraduate at Sabaragamuwa University of Sri Lanka (SUSL)**  
+💻 **Specializing in Computing & Information Systems (CIS)**  
+🚀 **Passionate about Software Development, AI & Open Source**  
 
-<h1 align="center">Hi 👋, I'm Manuja Pabodhana</h1>
-<h3 align="center">CIS Undergraduate | Faculty of Computing, SUSL</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> </p>
-
----
-
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 I’m currently learning **MERN Stack / Python / AI & ML**  
-- 👨‍🎓 I’m an undergraduate at **Sabaragamuwa University of Sri Lanka (SUSL)**  
-- 📫 How to reach me **your.email@example.com**  
-- ⚡ Fun fact **I love coding while listening to lo-fi beats!**  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C7AEA&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Learner" alt="Typing Animation" />
+</div>
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-
-| ![Manuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight) | ![Manuja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
----
-
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=twitter" height="50" width="50" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" />
-</a>
-</p>
+### 🔧 **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27"> <b>Languages & Tools:</b> </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,mongodb,mysql,git,github,figma,vscode" />
-</p>
+### 🌟 **GitHub Stats**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+### 🔥 **Streak Stats**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+### 🎧 **Currently Vibing To**
+[![Spotify](https://spotify-readme-psi.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+⭐ **Fun Fact:** "I turn coffee into code ☕ → 💻"  
+</div>
